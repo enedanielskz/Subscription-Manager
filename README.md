@@ -1,4 +1,6 @@
 # Subscription-Manager
+Faculty Project - OOP
+
 C++ OOP application that lets you manage subscriptions and clients
 
 Features:
